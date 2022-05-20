@@ -1,0 +1,151 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+    color: #40514E;
+}
+
+
+h1{
+    color: #2F8F9D;
+    font-size: 5em;
+    margin : 0 auto ;
+    font-family : 'Sacramento', cursive;
+}
+
+h2{
+    font-size: 2rem;
+    color: #3BACB6;
+    padding: 10px;
+}
+
+h3{
+    font-size: 1.25rem;
+    color: #82DBD8;
+}
+
+hr{
+    border: dotted rgb(133, 121, 121) 6px;
+    border-bottom: none;
+    width: 4%;
+    margin : 100px auto;
+}
+
+a{
+    color : #3BACB6;
+    margin : 10px 20px;
+    font-family: 'PT Sans', sans-serif;
+    text-decoration: none;
+}
+
+a:hover{
+    color : #82DBD8;
+}
+
+.top {
+    background-color: #B3E8E5;
+}
+
+.margin{
+    color : #3BACB6;
+    margin-bottom: 0;
+    font-size: 1.25rem;
+    font-weight: normal;
+}
+
+.mountain{
+    position: absolute;
+    top: 180px;
+    width: 50%;
+    right: 300px;
+}
+
+
+.cloud{
+    position: absolute;
+    right: 200px;
+    top: 100px;
+    
+}
+
+.cloud-2{
+    position: absolute;
+    left: 200px;
+    top: 250px;
+}
+
+
+.top-bg{
+    background-color: #B3E8E5;
+    height: 550px;
+}
+
+.profile-pic{
+    margin-top: 100px;
+    border-radius: 100%;
+    width: 15%;
+}
+
+.skill-dev{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-sports{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.middle-container{
+    margin : 20px 0;
+}
+
+.btn {
+    background: #B3E8E5;
+    background-image: -webkit-linear-gradient(top, #3BACB6, #3BACB6);
+    background-image: -moz-linear-gradient(top, #3BACB6, #3BACB6);
+    background-image: -ms-linear-gradient(top, #3BACB6, #3BACB6);
+    background-image: -o-linear-gradient(top, #3BACB6, #3BACB6);
+    background-image: linear-gradient(to bottom, #3BACB6, #3BACB6);
+    -webkit-border-radius: 15;
+    -moz-border-radius: 15;
+    border-radius: 15px;
+    font-family: 'PT Sans', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #B3E8E5;
+    background-image: -webkit-linear-gradient(top, #B3E8E5, #B3E8E5);
+    background-image: -moz-linear-gradient(top, #B3E8E5, #B3E8E5);
+    background-image: -ms-linear-gradient(top, #B3E8E5, #B3E8E5);
+    background-image: -o-linear-gradient(top, #B3E8E5, #B3E8E5);
+    background-image: linear-gradient(to bottom, #B3E8E5, #B3E8E5);
+    text-decoration: none;
+  }
+
+  .bottom-container{
+      background-color: #B3E8E5 ;
+      padding: 50px 0 20px;
+  }
+
+  .contact-message{
+      margin : 40px auto 60px;
+  }
+
+  .contact-me{
+      margin-bottom: 80px;
+  }
+
